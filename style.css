@@ -1,0 +1,15 @@
+:root {
+	--cursive-font: "Sacramento", cursive;
+}
+
+body {
+	margin: 0;
+	padding: 0;
+}
+
+h1 {
+	font-family: var(--cursive-font);
+}
+p span {
+	text-decoration: underline;
+}
